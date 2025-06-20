@@ -1,0 +1,43 @@
+/* 1. Aspectos gerais */
+html {
+  background-color: #A29339;
+  color: #3D32B8;
+  font-family: Arial, Helvetica, sans-serif; /* sans-serif */
+  width: 800px; /* Tamanho fixo da página */
+  margin: 0 auto; /* Centralizar a página no navegador */
+}
+
+/* Recuo nos parágrafos */
+p {
+  text-indent: 1em;
+}
+
+/* 2. Títulos */
+h1 {
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+/* 3. Seções resumo e principal */
+aside {
+  text-align: center; 
+}
+
+main p {
+  line-height: 1.5;
+}
+
+/* 4. Abreviaturas */
+abbr {
+  font-variant: small-caps;
+}
